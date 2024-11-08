@@ -1,0 +1,4 @@
+# Set all files to use LF in the repository, but convert to CRLF on checkout on Windows
+* text=auto
+*.js text eol=lf
+*.json text eol=lf
